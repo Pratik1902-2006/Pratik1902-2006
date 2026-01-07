@@ -1,5 +1,6 @@
 # 💫 About Me:
 I am currently pursuing B.Tech.<br>I have hands-on experience with HTML, CSS, and JavaScript , and i am currently strengthening my backend skills with java.<br>I am dedicated to my work and exploring more software tools.
+I am good in using Git and Github.
 
 
 ## 🌐 Socials:
